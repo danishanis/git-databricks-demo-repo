@@ -5,9 +5,3 @@
 # COMMAND ----------
 
 import pandas as pd
-import numpy as np
-
-# COMMAND ----------
-
-# MAGIC %md
-# MAGIC
