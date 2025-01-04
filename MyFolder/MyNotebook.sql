@@ -50,7 +50,7 @@ describe history employees
 
 -- COMMAND ----------
 
--- MAGIC %fs head 'dbfs:/user/hive/warehouse/new_employees/_delta_log/00000000000000000001.json'
+-- MAGIC %fs head 'dbfs:/user/hive/warehouse/new_employees/_delta_log/00000000000000000002.json'
 
 -- COMMAND ----------
 
